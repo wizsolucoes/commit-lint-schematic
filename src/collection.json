@@ -1,0 +1,13 @@
+{
+  "$schema": "../node_modules/@angular-devkit/schematics/collection-schema.json",
+  "schematics": {
+    "commit-lint": {
+      "description": "Adds commit link to a project with a package.json file.",
+      "factory": "./commit-lint/index#main"
+    },
+    "ng-add": {
+      "description": "Ng add support.",
+      "factory": "./ng-add/index#ngAdd"
+    }
+  }
+}
