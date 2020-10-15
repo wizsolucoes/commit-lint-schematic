@@ -1,6 +1,6 @@
 # Wiz Commit Lint Schematic
 
-Adicione lint de mensagens de commit, segundo a especificação [Conventional Commits](https://www.conventionalcommits.org/), ao seu projeto com apenas um comando!
+Adicione lint de mensagens de commit, segundo a especificação [Conventional Commits](https://www.conventionalcommits.org/), ao seu projeto com apenas um comando.
 
 ## Uso
 
@@ -37,7 +37,7 @@ npm run build
 npm pack
 ```
 
-#### 2. Instale e execute o schematic no raiz de qualquer aplicação
+#### 2. Instale e execute o schematic na raiz de qualquer aplicação
 
 ```bash
 # Instalar schematic
