@@ -63,6 +63,7 @@ export function installPackages(): Rule {
     const devDependencies: { [key: string]: string } = {
       "@commitlint/cli": "^11.0.0",
       "@commitlint/config-conventional": "^11.0.0",
+      "commitlint-azure-pipelines-cli": "^1.0.3",
       husky: "^4.3.0",
     };
 
