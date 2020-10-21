@@ -1,6 +1,6 @@
 {
   "name": "@wizsolucoes/commit-lint",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Adicione lint de mensagens de commit, segundo a especificação Conventional Commits, ao seu projeto com apenas um comando!",
   "homepage": "https://github.com/wizsolucoes/commit-lint-schematic#wiz-commit-lint-schematic",
   "repository": {
